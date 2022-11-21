@@ -8,3 +8,8 @@ preform CRUD operations that will persist when the application is terminated. Th
 
 https://user-images.githubusercontent.com/64448202/175796019-fd7e4400-7864-436d-b40a-cc7da33e0f4e.mov
 
+## Technology
+
+* Core Data
+* SwiftUI
+* Swift
